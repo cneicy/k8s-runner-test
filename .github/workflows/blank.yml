@@ -5,4 +5,4 @@ jobs:
     runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
-      - run: echo "Hello from kind + ARC!"
+      - run: echo "everything ok"
